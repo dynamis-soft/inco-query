@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/dynamis-soft/inco-query/issues"
   },
-  "homepage": "https://github.com/dynamis-soft/inco-query#readme"
+  "homepage": "https://github.com/dynamis-soft/inco-query#readme",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "bootstrap": "^3.3.7"
+  }
 }
