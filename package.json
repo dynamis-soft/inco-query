@@ -1,0 +1,19 @@
+{
+  "name": "inco-query",
+  "version": "1.0.0",
+  "description": "Git repo for Inco Query collaborators.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dynamis-soft/inco-query.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dynamis-soft/inco-query/issues"
+  },
+  "homepage": "https://github.com/dynamis-soft/inco-query#readme"
+}
